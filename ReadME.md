@@ -40,8 +40,14 @@ This analysis leads to several recommendations for improving Microsoft's studio 
 
 ## Repository Structure
 
-├── Data Used
-├── Visualization PNGs
-├── zippedData
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+- Data Used
+- Visualizations PNGs
+- zippedData
+- .gitignore
+- Movie Analysis for Studio Development
+- MoviesAnalysis.pdf
+- Notebook PDF.pdf
+- Project_1-checkpoint.ipynb
+- Project_1.ipynb
+- ReadME.md
+- True Project 1 Documentation.ipynb

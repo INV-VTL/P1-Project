@@ -30,14 +30,6 @@ In all of the exploratory analysis of the data sets provided, the most potential
 1. When looking at all films that had both a domestic and world wide profit greater than zero, there was a strong positive relationship between each films profit and allocated budget.
 2. When looking at all films that had both a domestic and world wide profit greater than zero, it was found that June had the highest average domestic profit with October having the highest world wide average profit.
 
-![6](C:\Users\rychu\Documents\Flatiron\Phase-1-Project-Docs\Visualization PNGs\6.png)
-
-![7](C:\Users\rychu\Documents\Flatiron\Phase-1-Project-Docs\Visualization PNGs\7.png)
-
-![10](C:\Users\rychu\Documents\Flatiron\Phase-1-Project-Docs\Visualization PNGs\10.png)
-
-![11](C:\Users\rychu\Documents\Flatiron\Phase-1-Project-Docs\Visualization PNGs\11.png)
-
 ## Conclusions
 
 This analysis leads to several recommendations for improving Microsoft's studio chance at success and profit.

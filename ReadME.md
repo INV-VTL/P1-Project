@@ -3,7 +3,7 @@
 
 ###### Author: Ryan S. Chung
 
-<img src="C:\Users\rychu\Documents\Flatiron\Phase-1-Project-Docs\Visualization PNGs\savoy-16-.jpeg" alt="savoy-16-" style="zoom:200%;" />
+![ScreenShot](A.jpg)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This project analyzes multiple data sets containing information on released film
 
 Microsoft is looking to invest in the creation of a studio and is looking for valuable information to keep in mind in its development.  Having various business insights from the exploratory analysis of previously released films will assist them in incorporating measures to best increase their studio's chance at success and profit.
 
-<img src="C:\Users\rychu\Documents\Flatiron\Phase-1-Project-Docs\Visualization PNGs\NYBZ402-58_2020_145919.jpg" alt="NYBZ402-58_2020_145919" style="zoom:200%;" />
+![ScreenShot](B.jpg)
 
 ## Data
 

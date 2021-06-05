@@ -1,9 +1,8 @@
-<<<<<<< HEAD:Project_1_RM.md
 # Film Analysis for Studio Development
 
 ###### Author: Ryan S. Chung
 
-<img src="C:\Users\rychu\Documents\Flatiron\Phase-1-Project-Docs\Visualization PNGs\A.jpg" alt="A" style="zoom:200%;" />
+<img src="Visualization PNGs\A.jpg" alt="A" style="zoom:200%;" />
 
 ## Overview
 
@@ -13,7 +12,7 @@ This project analyzes multiple data sets containing information on released film
 
 Microsoft is looking to invest in the creation of a studio and is looking for valuable information to keep in mind in its development.  Having various business insights from the exploratory analysis of previously released films will assist them in incorporating measures to best increase their studio's chance at success and profit.
 
-<img src="C:\Users\rychu\Documents\Flatiron\Phase-1-Project-Docs\Visualization PNGs\B.jpeg" alt="B" style="zoom:200%;" />
+<img src="Visualization PNGs\B.jpeg" alt="B" style="zoom:200%;" />
 
 ## Data
 
